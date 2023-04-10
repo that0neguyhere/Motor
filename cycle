@@ -1,4 +1,4 @@
-game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed = 50
+game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed = 30
  
 game.Players.LocalPlayer.Character["SeeMonkey"].Handle.Mesh:Destroy()
 game.Players.LocalPlayer.Character["Pink Hair"].Handle.Mesh:Destroy()
